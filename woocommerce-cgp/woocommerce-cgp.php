@@ -3,7 +3,7 @@
 /**
  * Plugin Name: WooCommerce CGP
  * Plugin URI: https://github.com/alexeyartisan/woocommerce-cgp-plugin
- * Description: Тестовое задание для компании CGP
+ * Description: Тестовое задание для компании CGP Systems
  * Version: 1.0.0
  * Author: Alexey Stetsyura
  * Author URI: https://github.com/alexeyartisan/
